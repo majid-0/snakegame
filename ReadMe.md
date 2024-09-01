@@ -75,3 +75,6 @@ Obstacle Timing: Obstacles appear after the snake reaches a certain length and d
 Known Issues
 Simultaneous Collision: If the snake eats both an apple and a power-up at the exact same time, unexpected behavior may occur. Sequential collision handling has been implemented to mitigate this, but further testing is encouraged.
 Power-Up Overlap: Occasionally, power-ups may spawn too close to obstacles, making them hard to reach. Future updates may address this by refining the spawn logic.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
